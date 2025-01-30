@@ -14,7 +14,7 @@ This is a classic Tic Tac Toe game built using HTML, CSS, and JavaScript. The ga
 ## Technologies Used 💻
 - HTML5
 - CSS3
-- Vanilla JavaScript
+- JavaScript
 
 ## Game Rules 📏
 1. The game is played on a 3x3 grid
