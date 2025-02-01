@@ -1,7 +1,7 @@
 # Cross Zero Challenge 🎮
 
 ## Overview
-This is a classic Tic Tac Toe game built using HTML, CSS, and JavaScript. The game provides a simple and interactive way to play the timeless strategy game with a modern, responsive design.
+This is a classic Cross Zero Challengee game built using HTML, CSS, and JavaScript. The game provides a simple and interactive way to play the timeless strategy game with a modern, responsive design.
 
 ## Features ✨
 - Two-player gameplay (X and O)
